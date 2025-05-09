@@ -126,7 +126,7 @@ function Competition() {
               SUAS is an annual competition where schools from{" "}
               <span className="text-red-700 font-bold">across the world</span>{" "}
               (including Cornell, UPenn, UT-Austin, etc) fly their custom-built
-              drones.
+              vehicles.
             </p>
             <p>We strive to grow and improve every year!</p>
           </div>
@@ -388,12 +388,12 @@ function DDHardware() {
           <span className="text-red-700 font-bold">eCalc</span> is a powerful
           industry-standard tool to calculate various metrics about custom
           vehicles. We use eCalc to measure and optimize battery weight, battery
-          power, propeller diameter, propeller pitch, motor KV, and ESCs.
+          power, propeller diameter, propeller pitch, motor KV, ESCs, etc.
         </p>
         <p>
           With eCalc, we first{" "}
           <span className="text-red-700 font-bold">fine-tune</span> our drone’s
-          parameters to ensure maximal performance for drone. Then we move on
+          parameters to ensure maximal performance. Then we move on
           the designing and building.
         </p>
       </DDItem>
@@ -518,7 +518,7 @@ function DDImaging() {
     >
       <DDItem
         name="Computer Vision"
-        resource="/imaging/classification.png"
+        resource="/imaging/classification.jpg"
         right={false}
       >
         <p>
@@ -537,7 +537,7 @@ function DDImaging() {
 
       <DDItem
         name="Map Stitching"
-        resource="/imaging/classification.png"
+        resource="/imaging/stitching.jpg"
         right={true}
       >
         <p>

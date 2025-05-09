@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "RUAuto",
+  title: "RUAutonomous 🚀",
   description: "RUAutonomous, AIAA, Rutgers University",
 };
 
